@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="ua.rd.natalia_markova.App" -DmainArguments="Hi Hello Goodbye"
